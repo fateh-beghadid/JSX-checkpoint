@@ -1,0 +1,39 @@
+
+.Blue{
+    color: white;
+    background-color: blue;
+    padding-bottom: 3vh;
+    padding-top: 3vh;
+    text-align: center;
+    margin: 0;
+}
+
+.green{
+    color: white;
+    background-color: green;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    text-align: center;
+    margin: 0;
+
+}
+
+.red{
+    color: white;
+    background-color: red;
+    height: fit-content;
+    padding-bottom: 3vh;
+    padding-top: 3vh;
+    text-align: center;
+    margin: 0;
+
+}
+
+img{
+  height: 250px;
+  width: 100px;
+  margin: 5vh;
+}
+.logo-svg{
+  padding-left: 50vh;
+}
